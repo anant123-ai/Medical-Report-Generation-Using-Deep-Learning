@@ -19,6 +19,8 @@ Exratcing features from xml file having some tags like Impression,findings,Indic
 we observed that one person may have couple of x-ray image,So by using the histogram, we concluded that we will going to use 2 x-ray per person id.
 If person having only one image we will duplicating same image into image2. 
 Finally created new csv file for modeling (datafinal.csv).
+<img src="https://github.com/anant123-ai/Medical-Report-Generation-Using-Deep-Learning/blob/main/1_ZJ7IviuFk9P2Nj7YGhPoQQ.png">
+<img src="https://github.com/anant123-ai/Medical-Report-Generation-Using-Deep-Learning/blob/main/1_ssDAFqny1fJXY15AuoufaA.png">
 
 Data Fields Explanation
 
